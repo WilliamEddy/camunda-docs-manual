@@ -24,7 +24,7 @@ params:
   section:
     id: "manual"
     version: "latest"
-    versionAlias: "7.10"
+    versionAlias: "7.9"
     versions:
       - "latest"
       - "7.9"
